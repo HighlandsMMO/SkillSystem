@@ -1,0 +1,8 @@
+name: LevelSystem
+version: ${project.version}
+main: highlands.levelsystem.LevelSystem
+api-version: 1.16
+prefix: TBOS_Loader_Level
+authors: [TheBadOne]
+description: The Leveling System For lighlands
+website: highlandsmmo.com
